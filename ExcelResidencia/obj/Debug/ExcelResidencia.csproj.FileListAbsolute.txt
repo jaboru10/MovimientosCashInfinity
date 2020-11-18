@@ -1,0 +1,66 @@
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.exe
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.pdb
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\Farmanager.dll
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.Design.dll
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.dll
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.Fonts.dll
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\MySql.Data.dll
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\Farmanager.pdb
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csprojResolveAssemblyReference.cache
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Form1.resources
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Properties.Resources.resources
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.GenerateResource.Cache
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.exe
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.pdb
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Configuracion.resources
+E:\Programación\Proyectos\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.exe.config
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.exe.config
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.exe
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.pdb
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\bin\Debug\Farmanager.pdb
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Configuracion.resources
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Form1.resources
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Properties.Resources.resources
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.CopyComplete
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.exe
+C:\Users\user\Desktop\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.pdb
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.exe.config
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.exe
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.pdb
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\bin\Debug\Farmanager.pdb
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csprojAssemblyReference.cache
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Configuracion.resources
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Form1.resources
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Properties.Resources.resources
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.CopyComplete
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.exe
+C:\Users\user\Desktop\aplicaciones\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.pdb
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.exe.config
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.exe
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\bin\Debug\ExcelResidencia.pdb
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Configuracion.resources
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Form1.resources
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.Properties.Resources.resources
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.csproj.CopyComplete
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.exe
+C:\Users\user\Desktop\CATALOGOS OCTUBRE\ExcelResidencia\ExcelResidencia\obj\Debug\ExcelResidencia.pdb
